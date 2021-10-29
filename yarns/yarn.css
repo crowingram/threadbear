@@ -1,0 +1,35 @@
+
+
+.headingYarnVendor { 
+	font-family: times new roman, serif; 
+	font-size: 14px; 
+	font-weight: bold;
+	vertical-align: top; 
+	background-color: #FFFFFF; 
+	color: #2F6C6D; 
+	padding-top: 15px;
+	}
+.headingYarnVendor A { color: #96A900; text-decoration: none; }
+.headingYarnVendor A:visited { color: #96A900; text-decoration: none; }
+.headingYarnVendor A:hover { color: #2F6C6D; text-decoration: underline; }
+.headingYarnVendor A:active { color: #2F6C6D; text-decoration: underline; }
+
+.headingYarnName { 
+	font-family: times new roman, serif; 
+	font-size: 18px; 
+	font-weight: bold;
+	vertical-align: top; 
+	background-color: #FFFFFF; 
+	color: #000000; 
+	padding-bottom: 5px;
+	}
+	
+.yarnSample {
+	font-family: verdana, arial, helvetica, sans-serif; 
+	font-size: 10px;
+	font-weight: normal;
+	text-align: right;
+	vertical-align: top; 
+	background-color: #FFFFFF;
+	color: #000000;	
+	}

@@ -1,0 +1,140 @@
+.policybox {
+	font-family: verdana, sans-serif;
+	font-size: 10px;
+	font-weight: normal;
+	vertical-align: top;
+	background-color: #a6a091;
+	color: #000000;
+	padding: 12px;
+}
+.policy {
+	padding-bottom: 8px;
+}
+
+.class_item {
+	font-family: 'times new roman', serif;
+	font-size: 18px;
+	font-weight: bold;
+	clear: both;
+	vertical-align: top;
+	color: #000000;
+}
+
+.class_special {
+	background-color: #f5eee6;
+	margin-bottom: 25px;
+	padding: 0 25px 25px 25px;
+	border-top: solid 1px #2f6c6d;
+	border-bottom: solid 1px #2f6c6d;
+}
+.class_special .class_note {
+	font-weight: bold;
+	color: #2f6c6d;
+	text-align: center;
+	border-top: solid 1px #2f6c6d;
+	border-bottom: solid 1px #2f6c6d;
+}
+.class_special .class_heading {
+	font-size: 16px;
+	font-family: 'times new roman', serif;
+	color: #2f6c6d;
+	text-align: center;
+}
+
+.class_started {
+	font-family: verdana, sans-serif;
+	font-size: 9px;
+	font-style: italic;
+	clear: both;
+	vertical-align: bottom;
+	color: #96a900;
+}
+
+.class_craft {
+	font-family: verdana, sans-serif;
+	font-size: 8px;
+	font-weight: bold;
+	clear: both;
+	vertical-align: top;
+	color: #7dabab;
+}
+
+.class_skill {
+	font-family: verdana, sans-serif;
+	font-size: 10px;
+	font-weight: normal;
+	vertical-align: top;
+	clear: both;
+	color: #000000;
+}
+
+.class_description {
+	text-align: left;
+	padding-bottom: 7px;
+	clear: both;
+}
+
+.class_description ol {
+	counter-reset: list;
+}
+.class_description ol > li {
+	list-style: none;
+}
+.class_description ol > li:before {
+	content: counter(list, numeric) ') ';
+	counter-increment: list;
+}
+
+.class_meetings {
+	font-family: verdana, sans-serif;
+	font-size: 10px;
+	font-weight: normal;
+	vertical-align: top;
+	padding-top: 3px;
+	clear: both;
+	border-top: solid 1px #cccccc;
+	color: #000000;
+	text-indent: -10px;
+	padding-left: 10px;
+}
+
+.class_sessions {
+	font-family: verdana, sans-serif;
+	font-size: 10px;
+	font-weight: normal;
+	vertical-align: top;
+	clear: both;
+	color: #000000;
+	text-indent: -10px;
+	padding-left: 10px;
+}
+
+.class_instructor {
+	font-family: verdana, sans-serif;
+	font-size: 10px;
+	font-weight: normal;
+	clear: both;
+	vertical-align: top;
+	color: #000000;
+	padding-bottom: 25px;
+}
+.class_instructor A {
+	color: #2f6c6d;
+	text-decoration: none;
+	font-weight: bold;
+}
+.class_instructor A:visited {
+	color: #2f6c6d;
+	text-decoration: none;
+	font-weight: bold;
+}
+.class_instructor A:hover {
+	color: #2f6c6d;
+	text-decoration: underline;
+	font-weight: bold;
+}
+.class_instructor A:active {
+	color: #2f6c6d;
+	text-decoration: underline;
+	font-weight: bold;
+}
