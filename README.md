@@ -21,7 +21,7 @@ well-documented, but it's posted here for review and storage.
 
 MIT License
 
-Copyright (c) 2004, 2009 Abraham Matthew Wardrober
+Copyright (c) 2004, 2009 Matthew Waldrop
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
